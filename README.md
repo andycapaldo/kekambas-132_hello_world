@@ -7,7 +7,7 @@ This is my very first repository with the Kekambas-132 Cohort!
 2. 'git add <file> OR 'git add .' to add files to staged changes.
 3. 'git commit -m "YOUR MESSAGE HERE" to commit (or take a snapshot)
 4. 'git remote add <remote_name> <remote_url>' to add contribution to GitHub
-    - '<remote_name> will usually be 'origin
+    - '<remote_name> will usually be 'origin'
 5. 'git push <remote_name> <remote_url>' to send commits to GitHub
-    - '<remote_name>' will usually be 'origin
+    - '<remote_name>' will usually be 'origin'
     - '<branch_name>' will usually be 'main'
